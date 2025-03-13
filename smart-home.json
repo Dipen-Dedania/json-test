@@ -1,4 +1,4 @@
 {
-    "apiURL": "https://driven-lightly-jaybird.ngrok-free.app",
-    "socketURL": "wss://driven-lightly-jaybird.ngrok-free.app:443/app/wsapi"
+    "apiURL": "https://trout-light-mostly.ngrok-free.app",
+    "socketURL": "wss://trout-light-mostly.ngrok-free.app:443/app/wsapi"
 }
