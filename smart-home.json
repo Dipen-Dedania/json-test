@@ -1,4 +1,4 @@
 {
-    "apiURL": "https://trout-light-mostly.ngrok-free.app",
-    "socketURL": "wss://trout-light-mostly.ngrok-free.app:443/app/wsapi"
+    "apiURL": "http://10.33.111.220:3008",
+    "socketURL": "ws://10.33.111.220:1884/ws"
 }
