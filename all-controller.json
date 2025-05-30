@@ -1,58 +1,38 @@
-{
-  "TB004": {
-    "ProjectId": "983399104480051203",
-    "Location": "Huizhou Factory",
-    "IP": "10.33.110.83",
-    "eth1_Mac": "38:D5:47:00:25:80",
-    "Wifi_SSID": "chooseyourssid",
-    "Wifi_password": "chooseyourpassword"
+[
+  {
+    name: 'TB004',
+    projectId: '983399104480051203',
+    location: 'Huizhou Factory',
+    IP: '10.33.110.83',
+    eth1Mac: '38:D5:47:00:25:80',
+    wifiSSID: 'chooseyourssid',
+    wifiPassword: 'chooseyourpassword',
   },
-  "TB005": {
-    "ProjectId": "983399104480051204",
-    "Location": "Huizhou Factory",
-    "IP": "10.33.111.220",
-    "eth1_Mac": "38:D5:47:00:25:81",
-    "Wifi_SSID": "chooseyourssid",
-    "Wifi_password": "chooseyourpassword"
+  {
+    name: 'TB005',
+    projectId: '983399104480051204',
+    location: 'Huizhou Factory',
+    IP: '10.33.111.220',
+    eth1Mac: '38:D5:47:00:25:81',
+    wifiSSID: 'chooseyourssid',
+    wifiPassword: 'chooseyourpassword',
   },
-  "India Dev1": {
-    "ProjectId": "983399104480051202",
-    "Location": "Inida Office",
-    "IP": "10.40.1.252",
-    "eth1_Mac": "8A:05:34:60:29:76",
-    "Wifi_SSID": "chooseyourssid",
-    "Wifi_password": "chooseyourpassword"
+  {
+    name: 'India Dev1',
+    projectId: '983399104480051202',
+    location: 'India Office',
+    IP: '10.40.1.252',
+    eth1Mac: '8A:05:34:60:29:76',
+    wifiSSID: 'chooseyourssid',
+    wifiPassword: 'chooseyourpassword',
   },
-  "India Dev2": {
-    "ProjectId": "983399104480051201",
-    "Location": "Inida Office",
-    "IP": "10.40.1.199",
-    "eth1_Mac": "8A:05:34:60:29:75",
-    "Wifi_SSID": null,
-    "Wifi_password": null
+  {
+    name: 'India App Dev1',
+    projectId: '983399104480051200',
+    location: 'India Office',
+    IP: '10.40.2.37',
+    eth1Mac: '8A:05:34:60:29:74',
+    wifiSSID: 'chooseyourssid1',
+    wifiPassword: 'chooseyourpassword1',
   },
-  "India App Dev1": {
-    "ProjectId": "983399104480051200",
-    "Location": "Inida Office",
-    "IP": "10.40.2.37",
-    "eth1_Mac": "8A:05:34:60:29:74",
-    "Wifi_SSID": "chooseyourssid1",
-    "Wifi_password": "chooseyourpassword1"
-  },
-  "India QA1": {
-    "ProjectId": "983399104480051199",
-    "Location": "Inida Office",
-    "IP": "TBD",
-    "eth1_Mac": "8a:05:34:60:29:73",
-    "Wifi_SSID": "TBD",
-    "Wifi_password": "TBD"
-  },
-  "Lab TB005": {
-    "ProjectId": "983399104480051204",
-    "Location": "Shenzhen lab",
-    "IP": "10.35.111.220",
-    "eth1_Mac": null,
-    "Wifi_SSID": null,
-    "Wifi_password": null
-  }
-}
+]
