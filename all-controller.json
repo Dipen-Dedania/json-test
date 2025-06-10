@@ -17,6 +17,15 @@
     "wifiSSID": "chooseyourssid",
     "wifiPassword": "chooseyourpassword"
   },
+   {
+    "name": "TB005-ShenZhen-Lab",
+    "projectId": "983399104480051204",
+    "location": "Huizhou Factory",
+    "IP": "10.35.111.220",
+    "eth1Mac": "38:D5:47:00:25:81",
+    "wifiSSID": "chooseyourssid",
+    "wifiPassword": "chooseyourpassword"
+  },
   {
     "name": "India Dev1",
     "projectId": "983399104480051202",
