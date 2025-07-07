@@ -1,19 +1,19 @@
 [
+    {
+    "name": "TB005",
+    "projectId": "983399104480051204",
+    "location": "Huizhou Factory",
+    "IP": "10.33.111.220",
+    "eth1Mac": "38:D5:47:00:25:81",
+    "wifiSSID": "chooseyourssid",
+    "wifiPassword": "chooseyourpassword"
+  },
   {
     "name": "TB004",
     "projectId": "983399104480051203",
     "location": "Huizhou Factory",
     "IP": "10.33.111.230",
     "eth1Mac": "38:D5:47:00:25:80",
-    "wifiSSID": "chooseyourssid",
-    "wifiPassword": "chooseyourpassword"
-  },
-  {
-    "name": "TB005",
-    "projectId": "983399104480051204",
-    "location": "Huizhou Factory",
-    "IP": "10.33.111.220",
-    "eth1Mac": "38:D5:47:00:25:81",
     "wifiSSID": "chooseyourssid",
     "wifiPassword": "chooseyourpassword"
   },
