@@ -30,7 +30,7 @@
     "name": "India Dev1",
     "projectId": "983399104480051202",
     "location": "India Office",
-    "IP": "10.40.1.252",
+    "IP": "10.40.1.4",
     "eth1Mac": "8A:05:34:60:29:76",
     "wifiSSID": "chooseyourssid",
     "wifiPassword": "chooseyourpassword"
@@ -39,7 +39,7 @@
     "name": "India App Dev1",
     "projectId": "983399104480051200",
     "location": "India Office",
-    "IP": "10.40.2.119",
+    "IP": "10.40.1.16",
     "eth1Mac": "8A:05:34:60:29:74",
     "wifiSSID": "chooseyourssid1",
     "wifiPassword": "chooseyourpassword1"
