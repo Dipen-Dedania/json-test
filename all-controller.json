@@ -1,6 +1,15 @@
 [
     {
     "name": "TB006-LAB",
+    "projectId": "983399104480051206",
+    "location": "Lab",
+    "IP": "10.35.111.221",
+    "eth1Mac": "38:D5:47:00:25:81",
+    "wifiSSID": "chooseyourssid",
+    "wifiPassword": "chooseyourpassword"
+  },
+    {
+    "name": "TB006",
     "projectId": "983399104480051205",
     "location": "Lab",
     "IP": "10.33.111.221",
